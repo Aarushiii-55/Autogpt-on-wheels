@@ -1,6 +1,6 @@
 # AutoGPT on Wheels: Deploying Generative Agents in Autonomous Vehicles
 
-M.Sc. Data Science dissertation project — a framework that lets passengers give autonomous vehicles natural-language instructions, safely, by inserting an LLM-powered reasoning layer between the passenger and the vehicle's deterministic control stack.
+A framework that lets passengers give autonomous vehicles natural-language instructions, safely, by inserting an LLM-powered reasoning layer between the passenger and the vehicle's deterministic control stack.
 
 > Presented at **PEIS 2026** | Submitted to **Springer LNEE** (Scopus-indexed) | Related work at **ICAMSF 2025**
 
