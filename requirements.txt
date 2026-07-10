@@ -1,0 +1,6 @@
+numpy
+opencv-python
+faiss-cpu
+sentence-transformers
+carla==0.9.10
+pytest
