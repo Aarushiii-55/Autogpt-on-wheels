@@ -109,10 +109,5 @@ A three-tier deployment model is proposed to make this feasible on real hardware
 ## Author
 
 **Aarushi Sharma** — M.Sc. Data Science, Chandigarh University
-Supervised by Dr. Harpreet Kaur, Department of Mathematics, University Institute of Sciences
 
-## Citation
 
-If you reference this work, please cite:
-
-> Sharma, A. "AutoGPT on Wheels: Deploying Generative Agents in Autonomous Vehicles." Accepted at PEIS 2026; submitted for publication in Springer LNEE (Scopus-indexed).
